@@ -1,0 +1,1001 @@
+﻿ID_Mahasiswa,Jurusan,Semester,IPK,Usia
+MHS0001,Manajemen,1,3.34,19
+MHS0002,Sistem Informasi,4,3.95,23
+MHS0003,Manajemen,1,3.52,18
+MHS0004,Manajemen,1,3.53,19
+MHS0005,Sistem Informasi,5,4.0,23
+MHS0006,Manajemen,2,3.31,21
+MHS0007,Manajemen,5,3.56,23
+MHS0008,Manajemen,1,3.55,19
+MHS0009,Sistem Informasi,5,3.76,23
+MHS0010,Sistem Informasi,4,3.87,22
+MHS0011,Sistem Informasi,5,3.62,24
+MHS0012,Manajemen,2,3.74,21
+MHS0013,Manajemen,2,3.41,20
+MHS0014,Manajemen,6,3.9,24
+MHS0015,Sistem Informasi,4,3.86,23
+MHS0016,Sistem Informasi,3,4.0,21
+MHS0017,Manajemen,3,3.52,21
+MHS0018,Sistem Informasi,6,3.89,24
+MHS0019,Manajemen,1,3.41,21
+MHS0020,Manajemen,2,3.53,19
+MHS0021,Manajemen,5,3.61,24
+MHS0022,Sistem Informasi,6,3.77,23
+MHS0023,Manajemen,7,3.57,25
+MHS0024,Manajemen,2,3.42,22
+MHS0025,Manajemen,3,3.9,22
+MHS0026,Sistem Informasi,4,3.85,22
+MHS0027,Sistem Informasi,7,4.0,25
+MHS0028,Sistem Informasi,4,3.83,22
+MHS0029,Sistem Informasi,5,3.92,23
+MHS0030,Manajemen,2,3.3,20
+MHS0031,Manajemen,2,3.44,20
+MHS0032,Manajemen,3,3.56,22
+MHS0033,Sistem Informasi,4,4.0,22
+MHS0034,Sistem Informasi,7,3.95,25
+MHS0035,Sistem Informasi,4,4.0,21
+MHS0036,Sistem Informasi,5,3.98,24
+MHS0037,Sistem Informasi,4,4.0,23
+MHS0038,Sistem Informasi,4,3.86,22
+MHS0039,Sistem Informasi,4,4.0,23
+MHS0040,Manajemen,1,3.42,20
+MHS0041,Sistem Informasi,3,3.73,22
+MHS0042,Manajemen,3,3.34,22
+MHS0043,Manajemen,3,3.9,21
+MHS0044,Sistem Informasi,5,4.0,23
+MHS0045,Manajemen,1,3.45,21
+MHS0046,Manajemen,2,3.71,20
+MHS0047,Sistem Informasi,3,3.96,21
+MHS0048,Sistem Informasi,6,4.0,25
+MHS0049,Manajemen,4,3.3,23
+MHS0050,Sistem Informasi,3,3.81,20
+MHS0051,Sistem Informasi,5,3.81,24
+MHS0052,Sistem Informasi,3,3.53,21
+MHS0053,Manajemen,1,3.67,19
+MHS0054,Manajemen,1,3.46,20
+MHS0055,Manajemen,1,3.62,20
+MHS0056,Manajemen,3,3.91,20
+MHS0057,Sistem Informasi,7,3.85,27
+MHS0058,Manajemen,1,3.43,20
+MHS0059,Sistem Informasi,5,3.9,23
+MHS0060,Sistem Informasi,5,4.0,25
+MHS0061,Manajemen,6,3.48,24
+MHS0062,Sistem Informasi,5,3.78,23
+MHS0063,Manajemen,1,3.67,19
+MHS0064,Manajemen,3,3.59,22
+MHS0065,Manajemen,2,3.19,21
+MHS0066,Manajemen,6,3.38,24
+MHS0067,Manajemen,2,3.76,20
+MHS0068,Sistem Informasi,5,3.94,23
+MHS0069,Sistem Informasi,1,3.7,19
+MHS0070,Sistem Informasi,4,3.84,21
+MHS0071,Sistem Informasi,6,3.9,23
+MHS0072,Sistem Informasi,5,4.0,24
+MHS0073,Manajemen,2,3.3,18
+MHS0074,Sistem Informasi,7,3.78,25
+MHS0075,Sistem Informasi,6,3.94,24
+MHS0076,Sistem Informasi,4,3.85,23
+MHS0077,Sistem Informasi,5,3.97,23
+MHS0078,Manajemen,2,3.32,21
+MHS0079,Manajemen,3,3.59,21
+MHS0080,Manajemen,2,3.69,20
+MHS0081,Manajemen,1,3.58,20
+MHS0082,Sistem Informasi,7,3.93,25
+MHS0083,Manajemen,5,3.54,24
+MHS0084,Sistem Informasi,6,3.76,23
+MHS0085,Sistem Informasi,7,3.9,25
+MHS0086,Sistem Informasi,6,4.0,25
+MHS0087,Manajemen,3,3.51,22
+MHS0088,Sistem Informasi,6,3.75,26
+MHS0089,Sistem Informasi,4,3.79,22
+MHS0090,Manajemen,2,3.55,19
+MHS0091,Sistem Informasi,3,3.79,21
+MHS0092,Manajemen,3,3.61,22
+MHS0093,Sistem Informasi,4,3.95,23
+MHS0094,Sistem Informasi,3,3.99,21
+MHS0095,Sistem Informasi,5,4.0,22
+MHS0096,Manajemen,2,3.67,21
+MHS0097,Sistem Informasi,3,3.7,20
+MHS0098,Sistem Informasi,6,3.75,25
+MHS0099,Sistem Informasi,6,3.88,26
+MHS0100,Manajemen,1,3.43,20
+MHS0101,Manajemen,1,3.32,20
+MHS0102,Manajemen,2,3.44,20
+MHS0103,Sistem Informasi,6,3.82,23
+MHS0104,Manajemen,4,3.44,22
+MHS0105,Manajemen,1,3.45,19
+MHS0106,Manajemen,3,3.72,20
+MHS0107,Sistem Informasi,3,3.88,23
+MHS0108,Sistem Informasi,4,4.0,23
+MHS0109,Sistem Informasi,8,3.95,26
+MHS0110,Manajemen,1,3.45,19
+MHS0111,Sistem Informasi,3,3.85,21
+MHS0112,Sistem Informasi,4,3.91,23
+MHS0113,Sistem Informasi,5,3.95,23
+MHS0114,Manajemen,5,3.89,24
+MHS0115,Sistem Informasi,8,3.79,26
+MHS0116,Manajemen,1,3.64,19
+MHS0117,Manajemen,1,3.53,18
+MHS0118,Manajemen,4,3.29,21
+MHS0119,Sistem Informasi,4,3.99,22
+MHS0120,Manajemen,5,3.76,23
+MHS0121,Manajemen,3,3.39,20
+MHS0122,Manajemen,1,3.5,19
+MHS0123,Sistem Informasi,6,3.62,24
+MHS0124,Sistem Informasi,3,3.65,20
+MHS0125,Sistem Informasi,4,4.0,22
+MHS0126,Sistem Informasi,5,3.81,24
+MHS0127,Sistem Informasi,4,3.69,23
+MHS0128,Sistem Informasi,5,3.92,22
+MHS0129,Sistem Informasi,5,3.8,23
+MHS0130,Manajemen,7,3.51,26
+MHS0131,Sistem Informasi,8,4.0,27
+MHS0132,Manajemen,2,3.33,20
+MHS0133,Manajemen,1,3.36,19
+MHS0134,Sistem Informasi,5,3.9,23
+MHS0135,Manajemen,6,3.73,25
+MHS0136,Sistem Informasi,4,4.0,22
+MHS0137,Manajemen,2,3.41,21
+MHS0138,Sistem Informasi,4,4.0,22
+MHS0139,Manajemen,1,3.37,20
+MHS0140,Sistem Informasi,5,4.0,23
+MHS0141,Sistem Informasi,4,3.68,23
+MHS0142,Sistem Informasi,6,4.0,25
+MHS0143,Manajemen,4,3.44,22
+MHS0144,Manajemen,4,3.87,21
+MHS0145,Sistem Informasi,4,3.96,24
+MHS0146,Sistem Informasi,4,3.7,23
+MHS0147,Sistem Informasi,6,3.81,23
+MHS0148,Manajemen,4,3.67,22
+MHS0149,Sistem Informasi,4,4.0,23
+MHS0150,Sistem Informasi,6,3.88,24
+MHS0151,Manajemen,1,3.51,19
+MHS0152,Manajemen,4,3.67,23
+MHS0153,Sistem Informasi,3,3.87,21
+MHS0154,Manajemen,1,3.29,19
+MHS0155,Sistem Informasi,5,3.75,23
+MHS0156,Manajemen,1,3.54,20
+MHS0157,Sistem Informasi,2,4.0,21
+MHS0158,Manajemen,1,3.76,20
+MHS0159,Manajemen,2,3.64,21
+MHS0160,Manajemen,3,3.58,22
+MHS0161,Sistem Informasi,2,3.95,20
+MHS0162,Manajemen,3,3.42,21
+MHS0163,Sistem Informasi,6,3.87,24
+MHS0164,Sistem Informasi,3,3.72,22
+MHS0165,Manajemen,1,3.3,20
+MHS0166,Sistem Informasi,6,3.95,25
+MHS0167,Manajemen,4,3.57,22
+MHS0168,Manajemen,2,3.63,20
+MHS0169,Sistem Informasi,6,3.98,24
+MHS0170,Manajemen,1,3.54,19
+MHS0171,Sistem Informasi,4,3.95,22
+MHS0172,Manajemen,3,3.52,23
+MHS0173,Sistem Informasi,3,3.92,21
+MHS0174,Manajemen,3,3.41,22
+MHS0175,Sistem Informasi,4,3.92,23
+MHS0176,Sistem Informasi,6,4.0,24
+MHS0177,Sistem Informasi,4,3.76,24
+MHS0178,Manajemen,2,3.52,20
+MHS0179,Manajemen,1,3.4,20
+MHS0180,Manajemen,1,3.42,19
+MHS0181,Manajemen,3,3.35,21
+MHS0182,Manajemen,1,3.7,20
+MHS0183,Manajemen,1,3.67,20
+MHS0184,Sistem Informasi,3,3.94,22
+MHS0185,Manajemen,1,3.82,20
+MHS0186,Manajemen,4,3.51,22
+MHS0187,Sistem Informasi,4,4.0,22
+MHS0188,Sistem Informasi,8,3.89,28
+MHS0189,Manajemen,1,3.54,20
+MHS0190,Sistem Informasi,5,3.82,23
+MHS0191,Manajemen,2,3.57,20
+MHS0192,Sistem Informasi,4,4.0,22
+MHS0193,Sistem Informasi,6,3.88,25
+MHS0194,Manajemen,6,3.86,24
+MHS0195,Sistem Informasi,6,3.93,24
+MHS0196,Sistem Informasi,3,3.89,21
+MHS0197,Manajemen,1,3.35,20
+MHS0198,Manajemen,3,3.6,21
+MHS0199,Sistem Informasi,4,3.84,21
+MHS0200,Sistem Informasi,5,3.78,23
+MHS0201,Manajemen,2,3.39,21
+MHS0202,Manajemen,2,3.94,21
+MHS0203,Manajemen,4,3.5,22
+MHS0204,Sistem Informasi,5,3.65,24
+MHS0205,Sistem Informasi,1,3.71,19
+MHS0206,Sistem Informasi,2,3.83,20
+MHS0207,Sistem Informasi,5,3.97,22
+MHS0208,Manajemen,2,3.6,21
+MHS0209,Sistem Informasi,3,3.96,22
+MHS0210,Manajemen,2,3.41,21
+MHS0211,Manajemen,3,3.58,22
+MHS0212,Manajemen,4,3.4,25
+MHS0213,Sistem Informasi,5,3.78,22
+MHS0214,Manajemen,2,3.37,20
+MHS0215,Manajemen,1,3.31,19
+MHS0216,Manajemen,2,3.69,20
+MHS0217,Sistem Informasi,4,3.98,21
+MHS0218,Sistem Informasi,5,4.0,23
+MHS0219,Manajemen,3,3.54,20
+MHS0220,Sistem Informasi,2,3.96,21
+MHS0221,Sistem Informasi,1,3.54,19
+MHS0222,Sistem Informasi,3,3.99,22
+MHS0223,Manajemen,5,3.59,24
+MHS0224,Manajemen,3,3.63,22
+MHS0225,Sistem Informasi,3,3.91,21
+MHS0226,Manajemen,5,3.4,25
+MHS0227,Sistem Informasi,4,3.63,22
+MHS0228,Manajemen,2,3.4,19
+MHS0229,Manajemen,5,3.65,22
+MHS0230,Sistem Informasi,2,3.95,19
+MHS0231,Sistem Informasi,3,3.63,21
+MHS0232,Sistem Informasi,5,3.72,23
+MHS0233,Manajemen,1,3.38,19
+MHS0234,Manajemen,3,3.47,23
+MHS0235,Manajemen,1,3.28,20
+MHS0236,Manajemen,1,3.27,20
+MHS0237,Sistem Informasi,3,3.72,21
+MHS0238,Manajemen,2,3.53,20
+MHS0239,Sistem Informasi,3,3.66,21
+MHS0240,Sistem Informasi,3,3.83,21
+MHS0241,Manajemen,4,3.71,21
+MHS0242,Manajemen,2,3.31,20
+MHS0243,Sistem Informasi,4,3.83,22
+MHS0244,Manajemen,1,3.66,19
+MHS0245,Manajemen,2,3.45,20
+MHS0246,Manajemen,1,3.41,19
+MHS0247,Manajemen,3,3.72,21
+MHS0248,Sistem Informasi,3,3.8,21
+MHS0249,Sistem Informasi,6,4.0,25
+MHS0250,Sistem Informasi,7,3.98,26
+MHS0251,Manajemen,1,3.45,19
+MHS0252,Manajemen,1,3.58,19
+MHS0253,Sistem Informasi,3,3.9,22
+MHS0254,Sistem Informasi,5,4.0,24
+MHS0255,Sistem Informasi,3,3.76,21
+MHS0256,Manajemen,4,3.55,23
+MHS0257,Manajemen,3,3.52,22
+MHS0258,Sistem Informasi,6,4.0,25
+MHS0259,Sistem Informasi,5,3.72,25
+MHS0260,Manajemen,8,3.77,25
+MHS0261,Sistem Informasi,2,3.91,20
+MHS0262,Manajemen,2,3.3,20
+MHS0263,Sistem Informasi,4,4.0,22
+MHS0264,Sistem Informasi,7,4.0,25
+MHS0265,Manajemen,2,3.68,19
+MHS0266,Sistem Informasi,6,4.0,24
+MHS0267,Sistem Informasi,3,3.86,21
+MHS0268,Sistem Informasi,7,3.64,25
+MHS0269,Sistem Informasi,4,3.57,22
+MHS0270,Sistem Informasi,4,3.91,21
+MHS0271,Sistem Informasi,7,3.82,25
+MHS0272,Sistem Informasi,4,3.72,22
+MHS0273,Sistem Informasi,4,3.85,23
+MHS0274,Manajemen,2,3.61,22
+MHS0275,Manajemen,1,3.27,20
+MHS0276,Sistem Informasi,4,3.79,23
+MHS0277,Sistem Informasi,3,4.0,20
+MHS0278,Manajemen,1,3.33,18
+MHS0279,Manajemen,4,3.68,24
+MHS0280,Manajemen,2,3.44,20
+MHS0281,Sistem Informasi,4,3.95,21
+MHS0282,Sistem Informasi,4,4.0,22
+MHS0283,Sistem Informasi,4,3.98,22
+MHS0284,Sistem Informasi,5,4.0,23
+MHS0285,Manajemen,5,3.38,23
+MHS0286,Sistem Informasi,7,4.0,26
+MHS0287,Sistem Informasi,4,3.73,22
+MHS0288,Sistem Informasi,4,3.91,21
+MHS0289,Manajemen,2,3.56,21
+MHS0290,Sistem Informasi,5,3.96,24
+MHS0291,Manajemen,2,3.57,20
+MHS0292,Sistem Informasi,5,3.74,22
+MHS0293,Manajemen,2,3.3,20
+MHS0294,Sistem Informasi,4,4.0,22
+MHS0295,Manajemen,2,3.54,21
+MHS0296,Manajemen,2,3.7,20
+MHS0297,Manajemen,1,3.49,19
+MHS0298,Manajemen,1,3.28,20
+MHS0299,Manajemen,3,3.68,19
+MHS0300,Manajemen,2,3.46,21
+MHS0301,Manajemen,1,3.55,19
+MHS0302,Sistem Informasi,5,3.78,24
+MHS0303,Manajemen,3,3.79,22
+MHS0304,Manajemen,1,3.36,20
+MHS0305,Manajemen,4,3.49,23
+MHS0306,Sistem Informasi,7,3.93,23
+MHS0307,Sistem Informasi,5,3.71,23
+MHS0308,Manajemen,3,3.58,21
+MHS0309,Sistem Informasi,2,4.0,20
+MHS0310,Sistem Informasi,7,3.83,26
+MHS0311,Sistem Informasi,4,3.93,23
+MHS0312,Sistem Informasi,7,3.47,26
+MHS0313,Sistem Informasi,5,3.87,23
+MHS0314,Sistem Informasi,1,3.77,18
+MHS0315,Sistem Informasi,2,3.7,20
+MHS0316,Sistem Informasi,5,4.0,24
+MHS0317,Sistem Informasi,5,3.83,22
+MHS0318,Manajemen,1,3.47,20
+MHS0319,Sistem Informasi,6,3.83,25
+MHS0320,Manajemen,4,3.24,22
+MHS0321,Manajemen,2,3.33,18
+MHS0322,Sistem Informasi,4,4.0,21
+MHS0323,Sistem Informasi,1,3.48,21
+MHS0324,Manajemen,4,3.42,22
+MHS0325,Manajemen,2,3.45,19
+MHS0326,Manajemen,4,3.82,23
+MHS0327,Manajemen,2,3.64,20
+MHS0328,Manajemen,2,3.43,21
+MHS0329,Manajemen,1,3.71,20
+MHS0330,Sistem Informasi,3,3.73,22
+MHS0331,Manajemen,3,3.69,22
+MHS0332,Sistem Informasi,4,3.65,23
+MHS0333,Manajemen,2,3.69,22
+MHS0334,Manajemen,6,3.51,25
+MHS0335,Sistem Informasi,7,3.75,24
+MHS0336,Manajemen,4,3.51,23
+MHS0337,Sistem Informasi,3,3.89,22
+MHS0338,Manajemen,2,3.44,21
+MHS0339,Sistem Informasi,6,3.98,24
+MHS0340,Manajemen,2,3.42,21
+MHS0341,Sistem Informasi,3,3.95,22
+MHS0342,Manajemen,4,3.62,24
+MHS0343,Manajemen,2,3.51,20
+MHS0344,Manajemen,2,3.44,20
+MHS0345,Manajemen,7,3.61,25
+MHS0346,Manajemen,3,3.62,21
+MHS0347,Manajemen,2,3.84,20
+MHS0348,Sistem Informasi,4,4.0,20
+MHS0349,Manajemen,2,3.67,20
+MHS0350,Sistem Informasi,3,4.0,22
+MHS0351,Manajemen,4,3.63,22
+MHS0352,Sistem Informasi,6,3.97,26
+MHS0353,Manajemen,1,3.61,19
+MHS0354,Manajemen,1,3.34,20
+MHS0355,Sistem Informasi,6,3.82,24
+MHS0356,Manajemen,1,3.42,20
+MHS0357,Manajemen,2,3.62,21
+MHS0358,Manajemen,2,3.49,21
+MHS0359,Sistem Informasi,5,3.9,23
+MHS0360,Manajemen,1,3.67,20
+MHS0361,Manajemen,3,3.67,22
+MHS0362,Sistem Informasi,4,3.84,22
+MHS0363,Sistem Informasi,5,3.77,24
+MHS0364,Sistem Informasi,2,4.0,22
+MHS0365,Manajemen,2,3.64,20
+MHS0366,Sistem Informasi,5,3.62,24
+MHS0367,Manajemen,1,3.45,20
+MHS0368,Manajemen,1,3.53,20
+MHS0369,Sistem Informasi,3,3.97,21
+MHS0370,Manajemen,2,3.66,18
+MHS0371,Manajemen,1,3.55,20
+MHS0372,Sistem Informasi,7,4.0,23
+MHS0373,Sistem Informasi,4,3.88,23
+MHS0374,Sistem Informasi,6,3.79,24
+MHS0375,Sistem Informasi,7,3.87,26
+MHS0376,Sistem Informasi,2,3.84,20
+MHS0377,Manajemen,3,3.52,20
+MHS0378,Sistem Informasi,6,3.59,24
+MHS0379,Sistem Informasi,5,3.82,23
+MHS0380,Manajemen,2,3.52,20
+MHS0381,Manajemen,2,3.47,20
+MHS0382,Manajemen,1,3.46,22
+MHS0383,Manajemen,2,3.59,21
+MHS0384,Sistem Informasi,8,3.75,27
+MHS0385,Sistem Informasi,7,3.65,26
+MHS0386,Manajemen,1,3.44,21
+MHS0387,Manajemen,3,3.65,21
+MHS0388,Manajemen,1,3.77,18
+MHS0389,Sistem Informasi,7,4.0,25
+MHS0390,Manajemen,1,3.27,20
+MHS0391,Manajemen,5,3.52,22
+MHS0392,Sistem Informasi,6,3.94,24
+MHS0393,Manajemen,1,3.53,19
+MHS0394,Manajemen,1,3.59,21
+MHS0395,Sistem Informasi,6,3.75,25
+MHS0396,Sistem Informasi,3,3.86,22
+MHS0397,Manajemen,2,3.58,21
+MHS0398,Sistem Informasi,7,4.0,25
+MHS0399,Sistem Informasi,5,3.75,23
+MHS0400,Sistem Informasi,4,3.81,21
+MHS0401,Sistem Informasi,4,3.43,21
+MHS0402,Manajemen,1,3.4,20
+MHS0403,Manajemen,6,3.49,24
+MHS0404,Sistem Informasi,4,3.7,23
+MHS0405,Manajemen,1,3.53,21
+MHS0406,Manajemen,1,3.49,21
+MHS0407,Sistem Informasi,7,3.55,24
+MHS0408,Manajemen,1,3.53,19
+MHS0409,Sistem Informasi,6,3.75,25
+MHS0410,Manajemen,3,3.61,23
+MHS0411,Manajemen,4,3.34,23
+MHS0412,Manajemen,6,3.58,25
+MHS0413,Sistem Informasi,6,3.85,24
+MHS0414,Manajemen,6,3.62,23
+MHS0415,Sistem Informasi,3,3.87,22
+MHS0416,Sistem Informasi,6,3.85,23
+MHS0417,Sistem Informasi,5,3.63,23
+MHS0418,Manajemen,2,3.28,20
+MHS0419,Sistem Informasi,6,3.8,25
+MHS0420,Manajemen,6,3.57,24
+MHS0421,Manajemen,3,3.43,19
+MHS0422,Sistem Informasi,4,3.97,23
+MHS0423,Sistem Informasi,4,3.82,22
+MHS0424,Sistem Informasi,4,3.71,22
+MHS0425,Manajemen,2,3.47,20
+MHS0426,Manajemen,2,3.55,20
+MHS0427,Sistem Informasi,2,3.89,21
+MHS0428,Manajemen,1,3.8,18
+MHS0429,Sistem Informasi,6,3.79,24
+MHS0430,Manajemen,2,3.5,21
+MHS0431,Manajemen,5,3.63,23
+MHS0432,Manajemen,3,3.53,20
+MHS0433,Manajemen,1,3.42,20
+MHS0434,Manajemen,1,3.25,20
+MHS0435,Sistem Informasi,3,3.77,21
+MHS0436,Sistem Informasi,7,3.74,24
+MHS0437,Sistem Informasi,3,3.57,22
+MHS0438,Manajemen,2,3.39,19
+MHS0439,Manajemen,5,3.39,23
+MHS0440,Manajemen,6,3.67,23
+MHS0441,Manajemen,1,3.6,19
+MHS0442,Sistem Informasi,2,3.69,20
+MHS0443,Manajemen,1,3.46,19
+MHS0444,Sistem Informasi,2,3.54,20
+MHS0445,Sistem Informasi,3,3.77,22
+MHS0446,Manajemen,2,3.58,20
+MHS0447,Manajemen,5,3.69,24
+MHS0448,Manajemen,2,3.4,21
+MHS0449,Sistem Informasi,5,4.0,23
+MHS0450,Manajemen,1,3.26,19
+MHS0451,Sistem Informasi,6,3.7,23
+MHS0452,Manajemen,3,3.64,22
+MHS0453,Manajemen,4,3.81,22
+MHS0454,Sistem Informasi,7,3.99,23
+MHS0455,Sistem Informasi,4,3.86,22
+MHS0456,Sistem Informasi,3,3.5,21
+MHS0457,Manajemen,1,3.18,21
+MHS0458,Sistem Informasi,4,3.89,21
+MHS0459,Manajemen,6,3.52,23
+MHS0460,Manajemen,2,3.34,21
+MHS0461,Manajemen,3,3.54,22
+MHS0462,Sistem Informasi,5,3.9,23
+MHS0463,Manajemen,1,3.65,19
+MHS0464,Sistem Informasi,4,3.89,23
+MHS0465,Manajemen,3,3.73,19
+MHS0466,Manajemen,3,3.53,20
+MHS0467,Manajemen,2,3.5,20
+MHS0468,Manajemen,1,3.67,21
+MHS0469,Sistem Informasi,5,3.72,23
+MHS0470,Manajemen,1,3.95,20
+MHS0471,Sistem Informasi,7,3.97,26
+MHS0472,Sistem Informasi,3,3.91,23
+MHS0473,Sistem Informasi,3,3.93,21
+MHS0474,Sistem Informasi,4,4.0,22
+MHS0475,Sistem Informasi,4,3.99,24
+MHS0476,Sistem Informasi,4,3.61,21
+MHS0477,Sistem Informasi,4,4.0,23
+MHS0478,Manajemen,7,3.54,24
+MHS0479,Manajemen,2,3.53,20
+MHS0480,Sistem Informasi,4,3.66,22
+MHS0481,Sistem Informasi,4,3.95,22
+MHS0482,Sistem Informasi,2,3.73,20
+MHS0483,Manajemen,2,3.53,21
+MHS0484,Sistem Informasi,3,3.8,22
+MHS0485,Sistem Informasi,5,4.0,23
+MHS0486,Sistem Informasi,2,4.0,20
+MHS0487,Sistem Informasi,8,3.93,27
+MHS0488,Sistem Informasi,4,3.88,22
+MHS0489,Manajemen,5,3.5,24
+MHS0490,Manajemen,2,3.69,21
+MHS0491,Manajemen,1,3.45,22
+MHS0492,Manajemen,4,3.48,22
+MHS0493,Manajemen,3,3.69,21
+MHS0494,Sistem Informasi,6,3.81,25
+MHS0495,Manajemen,2,3.51,21
+MHS0496,Manajemen,3,3.28,21
+MHS0497,Sistem Informasi,6,4.0,24
+MHS0498,Manajemen,3,3.84,22
+MHS0499,Sistem Informasi,4,3.98,22
+MHS0500,Manajemen,3,3.76,21
+MHS0501,Manajemen,3,3.39,21
+MHS0502,Manajemen,6,3.61,25
+MHS0503,Manajemen,2,3.36,20
+MHS0504,Manajemen,2,3.48,19
+MHS0505,Manajemen,4,3.67,21
+MHS0506,Manajemen,2,3.53,19
+MHS0507,Sistem Informasi,5,3.65,22
+MHS0508,Manajemen,2,3.3,20
+MHS0509,Sistem Informasi,3,3.63,20
+MHS0510,Sistem Informasi,6,3.97,24
+MHS0511,Sistem Informasi,3,4.0,21
+MHS0512,Manajemen,1,3.72,19
+MHS0513,Sistem Informasi,5,3.58,24
+MHS0514,Sistem Informasi,6,4.0,25
+MHS0515,Sistem Informasi,6,4.0,24
+MHS0516,Sistem Informasi,4,3.62,22
+MHS0517,Sistem Informasi,3,3.8,21
+MHS0518,Manajemen,6,3.75,24
+MHS0519,Sistem Informasi,3,3.94,22
+MHS0520,Manajemen,1,3.29,19
+MHS0521,Manajemen,1,3.6,19
+MHS0522,Sistem Informasi,5,3.54,22
+MHS0523,Sistem Informasi,6,3.86,24
+MHS0524,Manajemen,3,3.71,22
+MHS0525,Sistem Informasi,5,3.88,23
+MHS0526,Sistem Informasi,3,3.77,23
+MHS0527,Manajemen,2,3.66,20
+MHS0528,Manajemen,2,3.67,21
+MHS0529,Manajemen,1,3.71,19
+MHS0530,Sistem Informasi,4,4.0,22
+MHS0531,Manajemen,1,3.67,19
+MHS0532,Manajemen,1,3.62,20
+MHS0533,Sistem Informasi,5,3.92,24
+MHS0534,Manajemen,3,3.54,22
+MHS0535,Sistem Informasi,2,3.8,20
+MHS0536,Sistem Informasi,4,3.67,23
+MHS0537,Manajemen,4,3.39,22
+MHS0538,Sistem Informasi,6,3.85,25
+MHS0539,Sistem Informasi,6,3.93,24
+MHS0540,Manajemen,2,3.75,21
+MHS0541,Manajemen,4,3.54,24
+MHS0542,Manajemen,1,3.66,19
+MHS0543,Manajemen,2,3.69,19
+MHS0544,Manajemen,1,3.46,19
+MHS0545,Sistem Informasi,4,3.96,23
+MHS0546,Sistem Informasi,4,3.83,23
+MHS0547,Sistem Informasi,3,4.0,22
+MHS0548,Sistem Informasi,6,4.0,25
+MHS0549,Manajemen,1,3.31,20
+MHS0550,Sistem Informasi,4,3.89,23
+MHS0551,Sistem Informasi,3,4.0,22
+MHS0552,Sistem Informasi,4,3.84,24
+MHS0553,Sistem Informasi,4,3.94,23
+MHS0554,Manajemen,2,3.6,21
+MHS0555,Sistem Informasi,3,3.68,21
+MHS0556,Sistem Informasi,6,3.98,24
+MHS0557,Sistem Informasi,7,3.69,27
+MHS0558,Sistem Informasi,4,3.76,22
+MHS0559,Manajemen,3,3.7,22
+MHS0560,Sistem Informasi,6,3.95,24
+MHS0561,Sistem Informasi,8,3.88,26
+MHS0562,Sistem Informasi,5,3.95,23
+MHS0563,Manajemen,5,3.55,24
+MHS0564,Manajemen,5,3.56,24
+MHS0565,Manajemen,4,3.65,21
+MHS0566,Manajemen,2,3.4,20
+MHS0567,Manajemen,1,3.51,21
+MHS0568,Sistem Informasi,1,3.77,19
+MHS0569,Sistem Informasi,4,3.61,21
+MHS0570,Manajemen,2,3.37,22
+MHS0571,Sistem Informasi,4,4.0,23
+MHS0572,Manajemen,2,3.58,20
+MHS0573,Sistem Informasi,5,3.67,23
+MHS0574,Manajemen,4,3.3,23
+MHS0575,Manajemen,1,3.48,19
+MHS0576,Manajemen,1,3.75,20
+MHS0577,Manajemen,4,3.52,23
+MHS0578,Manajemen,4,3.75,22
+MHS0579,Manajemen,7,3.65,25
+MHS0580,Sistem Informasi,6,3.97,24
+MHS0581,Sistem Informasi,6,3.68,25
+MHS0582,Manajemen,1,3.65,19
+MHS0583,Sistem Informasi,4,3.81,21
+MHS0584,Sistem Informasi,3,3.99,22
+MHS0585,Manajemen,3,3.4,22
+MHS0586,Manajemen,5,3.59,24
+MHS0587,Sistem Informasi,4,3.92,23
+MHS0588,Sistem Informasi,5,3.86,23
+MHS0589,Sistem Informasi,4,3.93,23
+MHS0590,Sistem Informasi,3,3.81,21
+MHS0591,Manajemen,1,3.4,19
+MHS0592,Sistem Informasi,2,4.0,20
+MHS0593,Sistem Informasi,7,4.0,27
+MHS0594,Manajemen,2,3.39,19
+MHS0595,Sistem Informasi,6,3.99,25
+MHS0596,Sistem Informasi,5,3.76,22
+MHS0597,Manajemen,1,3.31,19
+MHS0598,Manajemen,1,3.67,19
+MHS0599,Manajemen,4,3.27,21
+MHS0600,Manajemen,1,3.65,20
+MHS0601,Sistem Informasi,7,3.87,25
+MHS0602,Manajemen,1,3.47,18
+MHS0603,Manajemen,3,3.6,22
+MHS0604,Manajemen,4,3.64,23
+MHS0605,Manajemen,1,3.37,21
+MHS0606,Manajemen,1,3.61,20
+MHS0607,Manajemen,6,3.59,24
+MHS0608,Sistem Informasi,3,3.65,22
+MHS0609,Manajemen,2,3.49,22
+MHS0610,Sistem Informasi,4,4.0,23
+MHS0611,Manajemen,1,3.77,19
+MHS0612,Manajemen,3,3.64,22
+MHS0613,Manajemen,3,3.34,22
+MHS0614,Manajemen,2,3.59,19
+MHS0615,Sistem Informasi,6,4.0,25
+MHS0616,Manajemen,1,3.62,21
+MHS0617,Manajemen,1,3.63,20
+MHS0618,Sistem Informasi,5,3.94,24
+MHS0619,Sistem Informasi,8,3.91,26
+MHS0620,Sistem Informasi,2,3.74,20
+MHS0621,Manajemen,1,3.2,20
+MHS0622,Sistem Informasi,4,3.92,22
+MHS0623,Manajemen,4,3.57,22
+MHS0624,Sistem Informasi,2,3.92,21
+MHS0625,Manajemen,2,3.3,21
+MHS0626,Sistem Informasi,6,4.0,23
+MHS0627,Manajemen,2,3.84,21
+MHS0628,Sistem Informasi,3,3.86,21
+MHS0629,Manajemen,1,3.49,20
+MHS0630,Manajemen,2,3.56,21
+MHS0631,Manajemen,2,3.84,21
+MHS0632,Manajemen,4,3.38,22
+MHS0633,Sistem Informasi,5,3.91,24
+MHS0634,Sistem Informasi,5,3.75,23
+MHS0635,Sistem Informasi,8,3.84,27
+MHS0636,Sistem Informasi,4,3.86,22
+MHS0637,Manajemen,2,3.73,22
+MHS0638,Manajemen,5,3.85,24
+MHS0639,Manajemen,1,3.57,20
+MHS0640,Manajemen,3,3.47,20
+MHS0641,Manajemen,3,3.93,21
+MHS0642,Manajemen,1,3.43,20
+MHS0643,Sistem Informasi,4,3.77,23
+MHS0644,Sistem Informasi,3,3.57,20
+MHS0645,Manajemen,1,3.72,20
+MHS0646,Manajemen,2,3.67,20
+MHS0647,Sistem Informasi,4,4.0,23
+MHS0648,Manajemen,4,3.32,22
+MHS0649,Manajemen,5,3.79,23
+MHS0650,Sistem Informasi,6,3.91,25
+MHS0651,Sistem Informasi,3,3.98,21
+MHS0652,Manajemen,1,3.24,19
+MHS0653,Manajemen,1,3.73,19
+MHS0654,Sistem Informasi,3,3.98,22
+MHS0655,Manajemen,6,3.57,23
+MHS0656,Sistem Informasi,4,3.97,21
+MHS0657,Manajemen,1,3.38,20
+MHS0658,Sistem Informasi,6,3.8,24
+MHS0659,Manajemen,2,3.44,20
+MHS0660,Sistem Informasi,2,3.54,19
+MHS0661,Sistem Informasi,3,3.99,21
+MHS0662,Manajemen,3,3.72,21
+MHS0663,Sistem Informasi,6,3.78,25
+MHS0664,Sistem Informasi,3,3.91,21
+MHS0665,Sistem Informasi,7,3.87,26
+MHS0666,Manajemen,4,3.6,22
+MHS0667,Manajemen,4,3.44,22
+MHS0668,Manajemen,1,3.36,21
+MHS0669,Sistem Informasi,2,4.0,21
+MHS0670,Sistem Informasi,6,3.88,24
+MHS0671,Sistem Informasi,4,4.0,22
+MHS0672,Manajemen,3,3.54,22
+MHS0673,Manajemen,3,3.38,23
+MHS0674,Manajemen,1,3.7,19
+MHS0675,Manajemen,4,3.65,22
+MHS0676,Sistem Informasi,7,4.0,25
+MHS0677,Manajemen,3,3.72,21
+MHS0678,Sistem Informasi,4,3.76,22
+MHS0679,Sistem Informasi,6,3.87,24
+MHS0680,Sistem Informasi,5,3.85,24
+MHS0681,Sistem Informasi,6,3.69,25
+MHS0682,Sistem Informasi,6,3.85,24
+MHS0683,Sistem Informasi,6,4.0,24
+MHS0684,Sistem Informasi,4,3.9,23
+MHS0685,Manajemen,1,3.28,19
+MHS0686,Sistem Informasi,3,3.6,22
+MHS0687,Sistem Informasi,4,4.0,22
+MHS0688,Manajemen,2,3.5,20
+MHS0689,Manajemen,2,3.41,20
+MHS0690,Manajemen,2,3.47,22
+MHS0691,Sistem Informasi,6,3.66,24
+MHS0692,Manajemen,5,3.79,25
+MHS0693,Sistem Informasi,3,3.79,21
+MHS0694,Sistem Informasi,5,4.0,23
+MHS0695,Manajemen,3,3.54,23
+MHS0696,Manajemen,2,3.74,20
+MHS0697,Manajemen,1,3.54,18
+MHS0698,Manajemen,4,3.68,23
+MHS0699,Manajemen,6,3.69,24
+MHS0700,Sistem Informasi,5,3.98,23
+MHS0701,Sistem Informasi,7,3.97,25
+MHS0702,Sistem Informasi,8,3.89,26
+MHS0703,Sistem Informasi,4,4.0,22
+MHS0704,Manajemen,3,3.38,21
+MHS0705,Sistem Informasi,4,3.87,23
+MHS0706,Manajemen,7,3.59,24
+MHS0707,Manajemen,1,3.56,19
+MHS0708,Manajemen,2,3.45,20
+MHS0709,Sistem Informasi,6,3.95,23
+MHS0710,Sistem Informasi,4,3.84,22
+MHS0711,Manajemen,4,3.29,22
+MHS0712,Manajemen,2,3.52,20
+MHS0713,Manajemen,6,3.4,24
+MHS0714,Manajemen,5,3.28,23
+MHS0715,Manajemen,1,3.52,19
+MHS0716,Sistem Informasi,6,3.97,25
+MHS0717,Manajemen,2,3.6,22
+MHS0718,Sistem Informasi,5,3.97,23
+MHS0719,Manajemen,3,3.22,22
+MHS0720,Manajemen,4,3.33,22
+MHS0721,Manajemen,1,3.82,20
+MHS0722,Sistem Informasi,3,3.68,23
+MHS0723,Sistem Informasi,5,3.98,24
+MHS0724,Manajemen,2,3.41,19
+MHS0725,Sistem Informasi,4,3.88,23
+MHS0726,Sistem Informasi,2,3.73,21
+MHS0727,Sistem Informasi,4,3.95,22
+MHS0728,Sistem Informasi,6,3.92,25
+MHS0729,Sistem Informasi,2,3.76,20
+MHS0730,Manajemen,2,3.35,19
+MHS0731,Sistem Informasi,7,3.95,25
+MHS0732,Sistem Informasi,2,3.64,19
+MHS0733,Sistem Informasi,6,3.96,24
+MHS0734,Sistem Informasi,3,4.0,22
+MHS0735,Sistem Informasi,6,4.0,23
+MHS0736,Manajemen,3,3.64,20
+MHS0737,Sistem Informasi,6,3.88,23
+MHS0738,Sistem Informasi,3,3.54,21
+MHS0739,Sistem Informasi,5,3.67,23
+MHS0740,Sistem Informasi,6,4.0,25
+MHS0741,Sistem Informasi,3,3.72,22
+MHS0742,Sistem Informasi,3,3.74,22
+MHS0743,Manajemen,1,3.47,20
+MHS0744,Sistem Informasi,7,3.74,25
+MHS0745,Manajemen,3,3.33,21
+MHS0746,Sistem Informasi,5,3.87,24
+MHS0747,Sistem Informasi,6,3.75,23
+MHS0748,Sistem Informasi,5,3.76,24
+MHS0749,Manajemen,2,3.39,21
+MHS0750,Manajemen,2,3.6,21
+MHS0751,Sistem Informasi,5,3.84,23
+MHS0752,Sistem Informasi,3,3.82,22
+MHS0753,Sistem Informasi,6,3.99,22
+MHS0754,Sistem Informasi,6,3.87,24
+MHS0755,Manajemen,2,3.47,20
+MHS0756,Sistem Informasi,5,3.96,23
+MHS0757,Sistem Informasi,3,3.96,22
+MHS0758,Manajemen,6,3.55,24
+MHS0759,Sistem Informasi,7,3.92,24
+MHS0760,Sistem Informasi,7,3.78,25
+MHS0761,Manajemen,2,3.38,20
+MHS0762,Sistem Informasi,3,3.97,21
+MHS0763,Sistem Informasi,3,3.92,21
+MHS0764,Sistem Informasi,3,3.92,22
+MHS0765,Manajemen,1,3.54,19
+MHS0766,Sistem Informasi,2,3.84,21
+MHS0767,Sistem Informasi,8,4.0,27
+MHS0768,Sistem Informasi,2,3.98,19
+MHS0769,Sistem Informasi,3,4.0,21
+MHS0770,Manajemen,4,3.53,22
+MHS0771,Sistem Informasi,5,4.0,23
+MHS0772,Manajemen,3,3.57,21
+MHS0773,Manajemen,3,3.63,21
+MHS0774,Manajemen,5,3.61,25
+MHS0775,Sistem Informasi,5,3.92,22
+MHS0776,Manajemen,2,3.4,19
+MHS0777,Manajemen,3,3.64,20
+MHS0778,Sistem Informasi,4,4.0,24
+MHS0779,Manajemen,2,3.46,20
+MHS0780,Manajemen,2,3.53,20
+MHS0781,Sistem Informasi,3,3.78,21
+MHS0782,Manajemen,4,3.47,22
+MHS0783,Sistem Informasi,3,4.0,21
+MHS0784,Manajemen,1,3.39,21
+MHS0785,Manajemen,1,3.42,21
+MHS0786,Sistem Informasi,6,3.64,24
+MHS0787,Manajemen,2,3.39,21
+MHS0788,Sistem Informasi,5,3.61,23
+MHS0789,Manajemen,4,3.65,21
+MHS0790,Manajemen,1,3.95,20
+MHS0791,Sistem Informasi,6,3.84,25
+MHS0792,Sistem Informasi,4,3.6,23
+MHS0793,Sistem Informasi,3,3.99,21
+MHS0794,Sistem Informasi,5,3.76,23
+MHS0795,Sistem Informasi,7,4.0,26
+MHS0796,Sistem Informasi,4,3.82,23
+MHS0797,Sistem Informasi,5,3.78,23
+MHS0798,Sistem Informasi,4,3.84,21
+MHS0799,Manajemen,2,3.64,20
+MHS0800,Manajemen,3,3.49,22
+MHS0801,Manajemen,3,3.45,20
+MHS0802,Sistem Informasi,5,3.85,24
+MHS0803,Manajemen,1,3.3,20
+MHS0804,Manajemen,3,3.59,22
+MHS0805,Sistem Informasi,5,3.59,24
+MHS0806,Sistem Informasi,5,3.81,23
+MHS0807,Manajemen,1,3.62,18
+MHS0808,Sistem Informasi,4,3.91,22
+MHS0809,Manajemen,2,3.61,21
+MHS0810,Manajemen,1,3.49,19
+MHS0811,Sistem Informasi,3,4.0,21
+MHS0812,Sistem Informasi,4,4.0,21
+MHS0813,Manajemen,3,3.6,23
+MHS0814,Manajemen,1,3.65,20
+MHS0815,Sistem Informasi,6,4.0,25
+MHS0816,Manajemen,2,3.44,21
+MHS0817,Manajemen,3,3.31,22
+MHS0818,Manajemen,2,3.58,20
+MHS0819,Manajemen,2,3.6,20
+MHS0820,Sistem Informasi,5,4.0,23
+MHS0821,Sistem Informasi,7,3.76,27
+MHS0822,Manajemen,2,3.37,21
+MHS0823,Sistem Informasi,5,3.95,23
+MHS0824,Manajemen,3,3.52,22
+MHS0825,Manajemen,3,3.23,21
+MHS0826,Sistem Informasi,2,3.9,22
+MHS0827,Manajemen,2,3.22,20
+MHS0828,Sistem Informasi,4,3.71,23
+MHS0829,Manajemen,5,3.78,24
+MHS0830,Sistem Informasi,4,4.0,23
+MHS0831,Manajemen,2,3.32,20
+MHS0832,Manajemen,6,3.52,24
+MHS0833,Sistem Informasi,4,3.87,22
+MHS0834,Manajemen,1,3.78,19
+MHS0835,Manajemen,1,3.42,19
+MHS0836,Manajemen,1,3.42,21
+MHS0837,Manajemen,1,3.75,19
+MHS0838,Manajemen,2,3.46,20
+MHS0839,Sistem Informasi,6,4.0,24
+MHS0840,Manajemen,3,3.29,22
+MHS0841,Sistem Informasi,2,3.81,21
+MHS0842,Manajemen,2,3.25,21
+MHS0843,Manajemen,1,3.33,19
+MHS0844,Sistem Informasi,7,4.0,26
+MHS0845,Sistem Informasi,3,3.84,21
+MHS0846,Manajemen,3,3.48,21
+MHS0847,Sistem Informasi,4,3.75,23
+MHS0848,Manajemen,3,3.49,22
+MHS0849,Sistem Informasi,4,3.91,22
+MHS0850,Manajemen,3,3.69,21
+MHS0851,Sistem Informasi,3,3.43,21
+MHS0852,Sistem Informasi,7,3.78,27
+MHS0853,Manajemen,2,3.54,19
+MHS0854,Manajemen,3,3.51,22
+MHS0855,Sistem Informasi,6,3.96,23
+MHS0856,Sistem Informasi,8,3.97,26
+MHS0857,Manajemen,1,3.45,19
+MHS0858,Manajemen,1,3.42,19
+MHS0859,Sistem Informasi,3,3.81,21
+MHS0860,Manajemen,1,3.68,19
+MHS0861,Manajemen,2,3.4,20
+MHS0862,Manajemen,7,3.58,24
+MHS0863,Manajemen,7,3.62,26
+MHS0864,Manajemen,2,3.76,21
+MHS0865,Sistem Informasi,5,3.83,24
+MHS0866,Manajemen,4,3.7,21
+MHS0867,Manajemen,5,3.76,23
+MHS0868,Manajemen,1,3.49,20
+MHS0869,Sistem Informasi,5,3.85,22
+MHS0870,Sistem Informasi,6,3.84,24
+MHS0871,Manajemen,1,3.46,19
+MHS0872,Sistem Informasi,4,4.0,24
+MHS0873,Manajemen,7,3.63,27
+MHS0874,Sistem Informasi,8,3.96,25
+MHS0875,Manajemen,5,3.38,25
+MHS0876,Manajemen,4,3.39,22
+MHS0877,Sistem Informasi,3,4.0,22
+MHS0878,Sistem Informasi,4,3.84,23
+MHS0879,Manajemen,2,3.39,20
+MHS0880,Manajemen,2,3.74,21
+MHS0881,Sistem Informasi,4,3.91,22
+MHS0882,Manajemen,3,3.62,22
+MHS0883,Manajemen,2,3.49,21
+MHS0884,Sistem Informasi,6,3.84,25
+MHS0885,Sistem Informasi,4,3.84,22
+MHS0886,Sistem Informasi,4,3.64,22
+MHS0887,Sistem Informasi,3,3.84,22
+MHS0888,Sistem Informasi,3,3.9,22
+MHS0889,Sistem Informasi,6,4.0,25
+MHS0890,Manajemen,2,3.53,20
+MHS0891,Sistem Informasi,3,3.48,21
+MHS0892,Manajemen,3,3.51,21
+MHS0893,Sistem Informasi,5,4.0,23
+MHS0894,Sistem Informasi,1,3.96,20
+MHS0895,Manajemen,1,3.37,20
+MHS0896,Manajemen,1,3.59,19
+MHS0897,Sistem Informasi,5,3.76,24
+MHS0898,Sistem Informasi,4,3.65,23
+MHS0899,Sistem Informasi,2,3.78,21
+MHS0900,Manajemen,1,3.51,19
+MHS0901,Sistem Informasi,5,3.58,25
+MHS0902,Sistem Informasi,1,3.64,19
+MHS0903,Sistem Informasi,6,3.9,24
+MHS0904,Sistem Informasi,3,3.78,21
+MHS0905,Manajemen,3,3.59,21
+MHS0906,Manajemen,2,3.32,19
+MHS0907,Sistem Informasi,4,3.98,23
+MHS0908,Sistem Informasi,2,3.65,20
+MHS0909,Sistem Informasi,6,4.0,27
+MHS0910,Sistem Informasi,6,3.62,23
+MHS0911,Manajemen,1,3.33,18
+MHS0912,Manajemen,1,3.57,20
+MHS0913,Manajemen,5,3.83,24
+MHS0914,Manajemen,2,3.57,20
+MHS0915,Manajemen,1,3.59,20
+MHS0916,Manajemen,1,3.5,18
+MHS0917,Sistem Informasi,5,3.72,23
+MHS0918,Sistem Informasi,5,3.8,22
+MHS0919,Sistem Informasi,5,3.69,22
+MHS0920,Manajemen,6,3.37,24
+MHS0921,Sistem Informasi,4,3.93,21
+MHS0922,Manajemen,1,3.32,18
+MHS0923,Manajemen,2,3.57,20
+MHS0924,Manajemen,2,3.31,20
+MHS0925,Sistem Informasi,3,3.9,22
+MHS0926,Sistem Informasi,2,3.76,21
+MHS0927,Sistem Informasi,4,4.0,23
+MHS0928,Manajemen,3,3.58,22
+MHS0929,Manajemen,1,3.7,20
+MHS0930,Manajemen,2,3.39,20
+MHS0931,Sistem Informasi,5,3.89,23
+MHS0932,Sistem Informasi,5,3.72,24
+MHS0933,Sistem Informasi,6,3.83,24
+MHS0934,Manajemen,4,3.5,22
+MHS0935,Manajemen,3,3.41,21
+MHS0936,Sistem Informasi,3,3.66,21
+MHS0937,Manajemen,2,3.29,21
+MHS0938,Sistem Informasi,5,3.51,23
+MHS0939,Manajemen,1,3.33,19
+MHS0940,Sistem Informasi,2,3.94,20
+MHS0941,Sistem Informasi,3,3.59,20
+MHS0942,Manajemen,2,3.3,21
+MHS0943,Sistem Informasi,4,4.0,22
+MHS0944,Sistem Informasi,3,3.75,21
+MHS0945,Sistem Informasi,6,3.95,25
+MHS0946,Sistem Informasi,7,4.0,25
+MHS0947,Manajemen,1,3.61,18
+MHS0948,Manajemen,5,3.32,24
+MHS0949,Manajemen,1,3.46,19
+MHS0950,Sistem Informasi,7,3.65,25
+MHS0951,Manajemen,6,3.97,24
+MHS0952,Sistem Informasi,1,3.56,20
+MHS0953,Sistem Informasi,6,3.73,24
+MHS0954,Sistem Informasi,7,3.74,24
+MHS0955,Manajemen,5,3.32,24
+MHS0956,Manajemen,6,3.79,24
+MHS0957,Manajemen,2,3.9,22
+MHS0958,Manajemen,1,3.42,19
+MHS0959,Sistem Informasi,6,3.68,22
+MHS0960,Manajemen,3,3.17,22
+MHS0961,Manajemen,3,3.49,23
+MHS0962,Sistem Informasi,4,3.81,24
+MHS0963,Sistem Informasi,5,3.78,25
+MHS0964,Sistem Informasi,3,3.89,21
+MHS0965,Manajemen,3,3.59,22
+MHS0966,Sistem Informasi,2,3.89,20
+MHS0967,Manajemen,3,3.48,22
+MHS0968,Sistem Informasi,6,3.72,23
+MHS0969,Manajemen,2,3.62,20
+MHS0970,Sistem Informasi,4,3.87,22
+MHS0971,Sistem Informasi,4,4.0,23
+MHS0972,Sistem Informasi,7,4.0,26
+MHS0973,Sistem Informasi,5,3.65,23
+MHS0974,Manajemen,2,3.29,19
+MHS0975,Sistem Informasi,3,3.73,21
+MHS0976,Manajemen,1,3.33,19
+MHS0977,Sistem Informasi,4,3.99,23
+MHS0978,Sistem Informasi,7,3.97,26
+MHS0979,Manajemen,3,3.71,22
+MHS0980,Sistem Informasi,3,3.91,21
+MHS0981,Manajemen,4,3.58,20
+MHS0982,Manajemen,2,3.71,19
+MHS0983,Manajemen,4,3.62,23
+MHS0984,Sistem Informasi,3,3.86,21
+MHS0985,Sistem Informasi,5,4.0,23
+MHS0986,Manajemen,5,3.58,25
+MHS0987,Sistem Informasi,3,3.8,22
+MHS0988,Sistem Informasi,5,3.75,23
+MHS0989,Sistem Informasi,8,4.0,26
+MHS0990,Manajemen,1,3.7,19
+MHS0991,Manajemen,1,3.49,20
+MHS0992,Manajemen,3,3.74,23
+MHS0993,Manajemen,2,3.2,21
+MHS0994,Sistem Informasi,2,3.83,21
+MHS0995,Manajemen,2,3.51,21
+MHS0996,Sistem Informasi,6,3.78,23
+MHS0997,Manajemen,1,3.88,20
+MHS0998,Sistem Informasi,4,3.85,22
+MHS0999,Manajemen,4,3.48,20
+MHS1000,Sistem Informasi,5,3.88,22
