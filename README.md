@@ -1,18 +1,32 @@
-# Bedah Kasus 2 - Dataset Profil Mahasiswa
+Bedah Kasus 2 - Dataset Profil Mahasiswa
 
-Nama: Raka Ramadhan  
+Nama: Raka Ramadhan
 NIM: 241051016
 
-## Menjalankan project
+Live Dashboard
 
-```bash
+Akses dashboard melalui link berikut:
+
+"Dashboard Dataset Profil Mahasiswa" (https://datasetsintesismahasiswa.streamlit.app/)
+
+Menjalankan Project
+
 python -m venv .venv
 .venv\Scripts\activate
 pip install -r requirements.txt
 python analysis.py
 streamlit run app.py
-```
 
-Project berisi dataset sintesis 1.000 mahasiswa, script analisis Python, output visualisasi, laporan analisis, dan dashboard Streamlit.
+Deskripsi Project
 
-**Catatan:** data merupakan simulasi pembelajaran karena sumber hanya menyediakan dua observasi.
+Project ini berisi beberapa komponen utama:
+
+- Dataset sintesis 1.000 mahasiswa.
+- Script analisis menggunakan Python.
+- Output visualisasi data.
+- Laporan hasil analisis.
+- Dashboard interaktif menggunakan Streamlit.
+
+Catatan
+
+Data yang digunakan merupakan data simulasi untuk keperluan pembelajaran. Hal ini karena sumber data asli hanya menyediakan dua observasi.
